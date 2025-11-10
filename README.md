@@ -1,6 +1,6 @@
 <!-- ✅ مقدمة + صورة -->
 <p align="center">
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150"> 
 </p>
 
 <h1 align="center">hey there 👋! I'm Lujain</h1>
