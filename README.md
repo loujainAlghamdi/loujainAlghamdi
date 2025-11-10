@@ -1,6 +1,6 @@
 <!-- ✅ مقدمة + صورة -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/hello-world/hello-world.png" width="120" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
 </p>
 
 <h1 align="center">hey there 👋! I'm Lujain</h1>
@@ -36,15 +36,15 @@ I'm Lujain from Jeddah, Saudi Arabia
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="45" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 </p>
