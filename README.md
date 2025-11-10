@@ -1,8 +1,8 @@
 <!-- ✅ مقدمة + صورة -->
 <p align="center">
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150"> 
-  <img src="https://media.giphy.com/media/S9RnJWRWoiRZlHgaHa/giphy.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/loujainAlghamdi/loujainAlghamdi/main/Loujain%20Hamed%20Alghamdi.jpg" width="100%" />
 </p>
+
 </p>
 
 <h1 align="center">hey there 👋! I'm Lujain</h1>
