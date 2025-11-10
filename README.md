@@ -1,29 +1,29 @@
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/S9RnJWRWoiRZlHgaHa/giphy.gif" height="150" alt="hello gif"/>
-</div>
+<!-- ✅ الصورة تظهر أول شيء -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/S9RnJWRWoiRZlHgaHa/giphy.gif" alt="hello gif" width="200"/>
+</p>
 
 ###
 
 <!-- ✅ روابط التواصل -->
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/lojain-alghamdi-9a89b6283/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://wa.me/966532309517" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
   <a href="mailto:louginalghamdi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-</div>
+</p>
 
 ###
 
 <!-- ✅ العداد -->
-<div align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=loujainAlghamdi.loujainAlghamdi" alt="visitor badge"/>
-</div>
+</p>
 
 ###
 
@@ -44,7 +44,8 @@ I'm Lujain from Jeddah, Saudi Arabia <br><br>
 
 <h3 align="left">🛠 Language and Tools</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- ✅ الأيقونات جنب بعض باستخدام HTML افتراضي -->
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
@@ -60,4 +61,4 @@ I'm Lujain from Jeddah, Saudi Arabia <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
+</p>
