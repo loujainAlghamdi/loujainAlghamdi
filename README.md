@@ -23,7 +23,7 @@
 
 ---
 
-## 👩‍💻 About Me
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150"> ##  About Me
 
 I'm Lujain from Jeddah, Saudi Arabia  
 
