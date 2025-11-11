@@ -1,6 +1,6 @@
 <!-- ✅ مقدمة + صورة -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loujainAlghamdi/loujainAlghamdi/main/Loujain%20Hamed%20Alghamdi.jpg" width="100%" />
+  <img src="Loujain Header .png" alt="Loujain Header" width="100%">
 </p>
 
 </p>
