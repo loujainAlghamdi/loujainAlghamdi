@@ -5,7 +5,7 @@
 
 </p>
 
-<h1 align="center">hey there 👋! I'm Loujain</h1>
+<h1 align="center">Hi! I'm Loujain — welcome to my GitHub 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lojain-alghamdi-9a89b6283/">
