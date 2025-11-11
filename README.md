@@ -29,9 +29,9 @@
 
 I'm Lujain from Jeddah, Saudi Arabia  
 
-- 🎓 IT student at King Abdulaziz University  
-- 📚 Currently learning Flutter, web development, and exploring AI  
-- ⚡ I enjoy organizing tech events, learning new tools, and working on creative projects  
+- IT student at King Abdulaziz University  
+- Currently learning Flutter, web development, and exploring AI  
+- I enjoy learning new tools, organizing tech events, and working on creative projects  
 
 ---
 
